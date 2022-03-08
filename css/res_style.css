@@ -2,6 +2,11 @@
     display:none;
 }
 
+#navigation ul li,
+a {
+    margin:8px;
+}
+
 #home{
 flex-direction: column-reverse;
 }
