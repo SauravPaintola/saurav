@@ -1,0 +1,62 @@
+.name img{
+    display:none;
+}
+
+#home{
+flex-direction: column-reverse;
+}
+
+#home_img{
+    display:none;
+}
+
+#home_text{
+    margin-bottom: 50px;
+}
+
+
+#about_me{
+    height:800px !important;
+    flex-direction: column;
+    
+}
+
+#image{
+    display:none;
+}
+
+
+#services{
+    height:1000px !important;
+}
+
+#services_container{
+    /* flex-direction:column */
+}
+
+#skills{
+    /* height: 5; */
+    flex-direction: column;
+
+}
+
+.skills_box {
+    width: 50%;
+    padding: 40px !important;
+}
+
+
+.skills_box :nth-child(2) {
+    margin-top: 0px;
+}
+
+
+#foot{
+   display:none;
+}
+
+
+#up_arrow {
+    position: absolute;
+    right: 15% !important;
+  }
